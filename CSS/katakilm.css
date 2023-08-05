@@ -64,7 +64,7 @@ nav {
 }
 
 main {
-    background-image: url(/img/bgkataklim.jpg);
+    background-image: url(../img/bgkataklim.jpg);
     padding: 10px;
     width: 100%;
 }
@@ -148,7 +148,7 @@ main img {
 }
 
 .end{
-    background-image: url(/img/bgkataklim.jpg);
+    background-image: url(../img/bgkataklim.jpg);
     display: flex;
     flex-wrap: wrap;
    justify-content: space-around;
